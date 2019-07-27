@@ -4,7 +4,7 @@ Game Developed through LibGDX Framework in Java
 APK Download link:-
 https://drive.google.com/open?id=1rPaifBDmIgPVGWXJhrJyD5YSEJvz_J0q
 
-Shooting Stars is a simple 2D side-scrolling game where you have to dodge up incoming Fireballs falling from the top.
+Shooting Stars is a simple 2D side-scrolling game where you have to dodge incoming Fireballs falling from the top.
 
 1) In the Play Mode, you play as Megaman. 
    
